@@ -1,17 +1,18 @@
 # Cart66 to Mailchimp
 > Clone of the outdated wordpress plugin by johndaskovsky
 
-Requires at least: 2.8.2
-Tested up to: 3.5
-
-Send customer emails to a Mailchimp list at the completion of a Cart66 transaction. Customer will receive a confirmation email from Mailchimp.
+Original source: https://plugins.trac.wordpress.org/log/cart66-to-mailchimp/
 
 ## Description
+
+Send customer emails to a Mailchimp list at the completion of a Cart66 transaction. Customer will receive a confirmation email from Mailchimp.
 
 [Read the full description.](http://howtononprofit.wordpress.com/2013/02/23/wordpress-plugin-cart66-to-mailchimp/)
 
 Send customer emails to a Mailchimp list at the completion of a Cart66 transaction. Customer will receive a confirmation email from Mailchimp to opt-in.
 
+- Requires at least: 2.8.2
+- Tested up to: 3.5
 
 ## Installation
 
