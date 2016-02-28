@@ -32,5 +32,10 @@ To Uninstall Cart66 to Mailchimp
 
 ## Screenshots
 
-1. Cart66 to Mailchimp Settings Page
-2. Cart66 to Mailchimp Options Page
+#### Settings Page
+
+![Settings Page](screenshot-1.jpg)
+
+#### Options Page
+
+![Options Page](screenshot-2.jpg)
